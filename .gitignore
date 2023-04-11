@@ -1,0 +1,64 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+# Unity3D generated meta files
+*.pidb.meta
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+# Builds
+*.apk
+*.aab
+*.x86
+*.x86_64
+*.app
+*.exe
+*.ipa
+*.msi
+*.msp
+*.pkg
+*.deb
+*.dmg
+*.zip
+*.tar.gz
+*.rar
+# Xcode
+*.pbxproj
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+# Build generated
+Builds/
+# VS/MD solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+# Unity3D generated file on crash reports
+sysinfo.txt
+# Rider generated
+.idea/
+*.csproj
+*.sln
+*.sln.DotSettings.user
+*.csproj.user
+*.pidb
+*.il
+*.pdb
+*.unityproj
